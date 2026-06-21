@@ -92,3 +92,4 @@ HSF（Haptic Script Format）是 HES 的时间线表达格式，类似 **SRT 字
     }
   ]
 }
+```
